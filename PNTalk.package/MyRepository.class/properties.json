@@ -1,0 +1,19 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		"Root",
+		"ClipboardObject",
+		"AccessProtect",
+		"SimulationsToWakeUpAtStart" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 8/3/2005 18:26",
+	"instvars" : [
+		"parent",
+		"name",
+		"namedComponents" ],
+	"name" : "MyRepository",
+	"pools" : [
+		 ],
+	"super" : "AbstractFolder",
+	"type" : "normal" }

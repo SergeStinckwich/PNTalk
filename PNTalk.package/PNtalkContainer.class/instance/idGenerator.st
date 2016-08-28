@@ -1,0 +1,3 @@
+copying
+idGenerator
+	^ idGen

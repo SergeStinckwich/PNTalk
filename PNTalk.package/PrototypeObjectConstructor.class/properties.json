@@ -1,0 +1,17 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 8/11/2007 21:26",
+	"instvars" : [
+		"class",
+		"slots",
+		"delegates",
+		"methods" ],
+	"name" : "PrototypeObjectConstructor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

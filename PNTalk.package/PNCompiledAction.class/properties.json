@@ -1,0 +1,21 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments",
+		"assgn",
+		"compiledAction",
+		"compiledPostAction",
+		"cmpSrc",
+		"assgnToQueue" ],
+	"name" : "PNCompiledAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Proxy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inner" ],
+	"name" : "PNtalkProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

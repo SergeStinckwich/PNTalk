@@ -1,0 +1,4 @@
+testing
+isEOF
+
+^type = #eof

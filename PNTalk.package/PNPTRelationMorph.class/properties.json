@@ -1,0 +1,18 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"netUI",
+		"relation",
+		"label",
+		"model",
+		"valueMorph" ],
+	"name" : "PNPTRelationMorph",
+	"pools" : [
+		 ],
+	"super" : "LineMorph",
+	"type" : "normal" }

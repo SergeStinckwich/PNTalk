@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AbstractFolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

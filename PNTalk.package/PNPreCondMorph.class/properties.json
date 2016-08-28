@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNPreCondMorph",
+	"pools" : [
+		 ],
+	"super" : "PNPTRelationMorph",
+	"type" : "normal" }

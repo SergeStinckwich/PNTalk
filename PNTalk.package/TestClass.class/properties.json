@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack",
+		"bool" ],
+	"name" : "TestClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

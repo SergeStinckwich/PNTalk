@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"value" ],
+	"name" : "LexerT",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

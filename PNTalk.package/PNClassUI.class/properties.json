@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"portMorphs",
+		"class" ],
+	"name" : "PNClassUI",
+	"pools" : [
+		 ],
+	"super" : "PNNetUI",
+	"type" : "normal" }

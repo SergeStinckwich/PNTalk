@@ -1,0 +1,16 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"place",
+		"arc" ],
+	"name" : "PNCompiledCondition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

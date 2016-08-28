@@ -1,0 +1,23 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 4/25/2006 02:47",
+	"instvars" : [
+		"parent",
+		"name",
+		"process",
+		"idleSemaphore",
+		"startStopSemaphore",
+		"accessProtect",
+		"clock",
+		"stopTime",
+		"reportStream",
+		"verbose" ],
+	"name" : "AbstractSimulation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

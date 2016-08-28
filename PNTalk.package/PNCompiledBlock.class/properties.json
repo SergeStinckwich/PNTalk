@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"compiledSource" ],
+	"name" : "PNCompiledBlock",
+	"pools" : [
+		 ],
+	"super" : "PNCompiledArgument",
+	"type" : "normal" }

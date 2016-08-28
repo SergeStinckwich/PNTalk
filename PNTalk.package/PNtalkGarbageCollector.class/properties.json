@@ -1,0 +1,21 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"simulations",
+		"timer",
+		"deepProcess",
+		"dP",
+		"lightProcess",
+		"lP",
+		"lightTimer",
+		"simulation" ],
+	"name" : "PNtalkGarbageCollector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"superClassName",
+		"nameSpace",
+		"netsList",
+		"portsList",
+		"objectNet",
+		"classWindow" ],
+	"name" : "PNCompiledClass",
+	"pools" : [
+		 ],
+	"super" : "PNClassComponent",
+	"type" : "normal" }

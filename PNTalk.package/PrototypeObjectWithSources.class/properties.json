@@ -1,0 +1,16 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 3/2/2012 15:31",
+	"instvars" : [
+		"owner",
+		"pathName",
+		"cachedTarget" ],
+	"name" : "PrototypeObjectWithSources",
+	"pools" : [
+		 ],
+	"super" : "SerializablePrototypeObject",
+	"type" : "normal" }

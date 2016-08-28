@@ -1,0 +1,3 @@
+accessing
+isNameSpace
+	^ false.

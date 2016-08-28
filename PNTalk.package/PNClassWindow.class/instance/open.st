@@ -1,0 +1,3 @@
+access
+open
+	sw openInWorld.

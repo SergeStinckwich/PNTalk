@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"fromQueue" ],
+	"name" : "PNCompiledArgument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

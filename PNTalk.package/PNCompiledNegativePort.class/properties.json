@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNCompiledNegativePort",
+	"pools" : [
+		 ],
+	"super" : "PNCompiledPort",
+	"type" : "normal" }

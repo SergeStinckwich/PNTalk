@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cal" ],
+	"name" : "PNtalkCalendar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

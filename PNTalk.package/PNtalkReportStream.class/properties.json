@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "PNtalkReportStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

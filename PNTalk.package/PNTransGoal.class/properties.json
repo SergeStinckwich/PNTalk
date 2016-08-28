@@ -1,0 +1,16 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position",
+		"variables",
+		"bindings" ],
+	"name" : "PNTransGoal",
+	"pools" : [
+		 ],
+	"super" : "PNtalkComponent",
+	"type" : "normal" }

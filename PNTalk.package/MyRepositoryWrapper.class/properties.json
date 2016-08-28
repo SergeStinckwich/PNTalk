@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyRepositoryWrapper",
+	"pools" : [
+		 ],
+	"super" : "MyRepositoryListItemWrapper",
+	"type" : "normal" }

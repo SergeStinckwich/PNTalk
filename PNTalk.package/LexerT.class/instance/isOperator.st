@@ -1,0 +1,4 @@
+testing
+isOperator
+
+^type = #operator

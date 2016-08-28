@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"doubleClickSelector" ],
+	"name" : "MyRepositoryListMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleHierarchicalListMorph",
+	"type" : "normal" }

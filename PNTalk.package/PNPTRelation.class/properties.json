@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to",
+		"arc",
+		"transition",
+		"place",
+		"netUI" ],
+	"name" : "PNPTRelation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

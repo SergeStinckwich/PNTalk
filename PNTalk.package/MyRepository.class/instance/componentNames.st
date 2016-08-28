@@ -1,0 +1,4 @@
+accessing
+componentNames
+
+	^ namedComponents keys

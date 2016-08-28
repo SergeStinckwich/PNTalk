@@ -1,0 +1,20 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transition",
+		"label",
+		"netUI",
+		"model",
+		"arcMorphs",
+		"guardMorph",
+		"actionMorph" ],
+	"name" : "PNTransitionMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

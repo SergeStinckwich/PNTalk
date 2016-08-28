@@ -1,0 +1,21 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oids",
+		"world",
+		"freeProxies",
+		"messages",
+		"mContexts",
+		"processes",
+		"processElements",
+		"smObjects" ],
+	"name" : "PNOIDTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

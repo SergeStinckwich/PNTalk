@@ -1,0 +1,18 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condsList",
+		"precondsList",
+		"postcondsList",
+		"guardsList",
+		"actionsList" ],
+	"name" : "PNCompiledTransition",
+	"pools" : [
+		 ],
+	"super" : "PNClassComponent",
+	"type" : "normal" }

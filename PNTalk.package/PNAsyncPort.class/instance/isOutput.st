@@ -1,0 +1,3 @@
+components
+isOutput
+	^ type = #output.

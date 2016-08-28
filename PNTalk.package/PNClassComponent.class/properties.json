@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 6/2/2006 19:23",
+	"instvars" : [
+		"name",
+		"parent" ],
+	"name" : "PNClassComponent",
+	"pools" : [
+		 ],
+	"super" : "AbstractFolder",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+GUI
+openModel
+
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+accessing
+isEmpty
+	^ value isNil.

@@ -1,0 +1,20 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"action",
+		"postAction",
+		"parent",
+		"listV",
+		"this",
+		"context",
+		"result" ],
+	"name" : "PNAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

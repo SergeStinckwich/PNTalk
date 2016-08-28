@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNImportedPlaceMorph",
+	"pools" : [
+		 ],
+	"super" : "PNPlaceMorph",
+	"type" : "normal" }

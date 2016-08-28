@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"storageTime",
+		"stat" ],
+	"name" : "PNStatPlace",
+	"pools" : [
+		 ],
+	"super" : "PNPlace",
+	"type" : "normal" }

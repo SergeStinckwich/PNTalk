@@ -1,0 +1,10 @@
+SystemOrganization addCategory: #PNTalk!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-Core'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-Documentation'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-Misc'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-PNClass'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-PNObject'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-Proxy'!
+SystemOrganization addCategory: 'PNTalk-PNtalk-Core-UI'!
+SystemOrganization addCategory: 'PNTalk-SmallDEVS-MyRepository'!
+SystemOrganization addCategory: 'PNTalk-SmallDEVS-MyRepository-GUI'!

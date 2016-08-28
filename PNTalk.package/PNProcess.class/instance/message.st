@@ -1,0 +1,3 @@
+method context
+message
+	^ message.

@@ -1,0 +1,3 @@
+domain
+isDomain
+	^ type = #domain

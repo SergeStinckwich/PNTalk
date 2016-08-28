@@ -1,0 +1,3 @@
+accessing
+isTimeSuspended
+	^ timeSuspend

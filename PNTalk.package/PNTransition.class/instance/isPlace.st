@@ -1,0 +1,3 @@
+components
+isPlace
+	^ false

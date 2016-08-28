@@ -1,0 +1,21 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"threads",
+		"events",
+		"testevents",
+		"transitions",
+		"places",
+		"message",
+		"state",
+		"compiledNet" ],
+	"name" : "PNProcess",
+	"pools" : [
+		 ],
+	"super" : "PNtalkContainer",
+	"type" : "normal" }

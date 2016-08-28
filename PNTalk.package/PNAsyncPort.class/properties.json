@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type" ],
+	"name" : "PNAsyncPort",
+	"pools" : [
+		 ],
+	"super" : "PNPlace",
+	"type" : "normal" }

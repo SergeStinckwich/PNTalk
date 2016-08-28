@@ -1,0 +1,15 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootObject",
+		"lm" ],
+	"name" : "MyRepositoryList",
+	"pools" : [
+		 ],
+	"super" : "AbstractHierarchicalList",
+	"type" : "normal" }

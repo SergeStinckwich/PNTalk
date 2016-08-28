@@ -1,0 +1,1 @@
+Tato trida neni pouzivana!!!! .... viz PNtalkThread

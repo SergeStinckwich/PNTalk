@@ -1,0 +1,3 @@
+identification
+isPostCondition
+	^true

@@ -1,0 +1,1 @@
+A Dictionary with correct storeOn: method and a modified copy method, that copies every element in the dictionary.

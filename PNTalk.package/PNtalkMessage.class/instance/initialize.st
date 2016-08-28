@@ -1,0 +1,3 @@
+initialization
+initialize
+	type := #MOP.

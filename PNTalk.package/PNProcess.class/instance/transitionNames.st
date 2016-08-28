@@ -1,0 +1,4 @@
+accessing
+transitionNames
+
+	^ transitions keys.

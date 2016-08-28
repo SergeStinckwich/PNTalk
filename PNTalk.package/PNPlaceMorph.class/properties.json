@@ -1,0 +1,20 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"place",
+		"label",
+		"pos",
+		"netUI",
+		"model",
+		"arcMorphs",
+		"markingMorph" ],
+	"name" : "PNPlaceMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"class",
+		"calendar",
+		"executable",
+		"random",
+		"listDependencies",
+		"activity",
+		"proxies" ],
+	"name" : "PNObject",
+	"pools" : [
+		 ],
+	"super" : "PNtalkMaster",
+	"type" : "normal" }

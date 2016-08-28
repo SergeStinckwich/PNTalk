@@ -1,0 +1,3 @@
+compiler
+asPrecondition
+	type := #precond

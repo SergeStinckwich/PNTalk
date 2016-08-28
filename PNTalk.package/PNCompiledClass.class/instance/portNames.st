@@ -1,0 +1,3 @@
+accessing
+portNames
+	^ portsList keys.

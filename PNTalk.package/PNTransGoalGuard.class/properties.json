@@ -1,0 +1,22 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression",
+		"isBoolean",
+		"allBindings",
+		"collection",
+		"fireExpression",
+		"listV",
+		"this",
+		"context",
+		"binds" ],
+	"name" : "PNTransGoalGuard",
+	"pools" : [
+		 ],
+	"super" : "PNTransGoal",
+	"type" : "normal" }

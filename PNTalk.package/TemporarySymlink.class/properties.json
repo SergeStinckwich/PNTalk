@@ -1,0 +1,16 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 6/8/2006 00:20",
+	"instvars" : [
+		"owner",
+		"pathName",
+		"cachedTarget" ],
+	"name" : "TemporarySymlink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

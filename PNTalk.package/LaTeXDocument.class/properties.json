@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 6/22/2006 15:20",
+	"instvars" : [
+		 ],
+	"name" : "LaTeXDocument",
+	"pools" : [
+		 ],
+	"super" : "Document",
+	"type" : "normal" }

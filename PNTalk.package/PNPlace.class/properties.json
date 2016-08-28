@@ -1,0 +1,17 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"content",
+		"orderedContent",
+		"listContext",
+		"listLocks" ],
+	"name" : "PNPlace",
+	"pools" : [
+		 ],
+	"super" : "PNtalkComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collection" ],
+	"name" : "PNMultiSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

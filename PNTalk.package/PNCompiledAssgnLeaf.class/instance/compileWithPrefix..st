@@ -1,0 +1,27 @@
+compiler
+compileWithPrefix: aString
+
+	| rec src1 as src2 |
+	rec := (receiver isKindOf: PNCompiledArgument) 
+		ifTrue: [ receiver compileToString ]
+		ifFalse: [ receiver printString ].
+
+	src1 := aString, rec, ']'.
+
+"	compiledAction := Object readFromString: src1."
+	compiledAction := src1.
+
+	"============================ postAction"
+	as := (assgn isNil)
+		ifFalse: [ 'listV at: ', (assgn printString), ' put: result. ' ]
+		ifTrue: [ ' ' ].
+
+	assgnToQueue ifTrue: [ as := as, 'context valueQueue addLast: result.' ].
+"	src2 := '[:listV :result :context | ', as, 'listV ]'. "
+	src2 := '[ ', as, 'listV ]'. 
+
+
+"	compiledPostAction := Object readFromString: src2."
+	compiledPostAction := src2.
+
+	cmpSrc := OrderedCollection new add: src1; add: src2; yourself.

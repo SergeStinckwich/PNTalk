@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actions" ],
+	"name" : "PNCompiledGuardComplex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

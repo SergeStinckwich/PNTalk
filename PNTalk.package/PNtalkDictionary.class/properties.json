@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"content",
+		"space" ],
+	"name" : "PNtalkDictionary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

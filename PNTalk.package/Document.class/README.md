@@ -1,0 +1,1 @@
+A text document - a node of MyRepository.

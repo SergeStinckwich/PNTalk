@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variables",
+		"result",
+		"actions",
+		"actionIndex",
+		"postArcGoals",
+		"valueQueue" ],
+	"name" : "PNtalkThread",
+	"pools" : [
+		 ],
+	"super" : "PNtalkComponent",
+	"type" : "normal" }

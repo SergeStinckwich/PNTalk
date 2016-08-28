@@ -1,0 +1,17 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"placesList",
+		"transitionsList",
+		"paramsList",
+		"netWindow" ],
+	"name" : "PNCompiledNet",
+	"pools" : [
+		 ],
+	"super" : "PNClassComponent",
+	"type" : "normal" }

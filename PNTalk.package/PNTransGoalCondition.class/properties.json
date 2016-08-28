@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNTransGoalCondition",
+	"pools" : [
+		 ],
+	"super" : "PNTransGoalPostCondition",
+	"type" : "normal" }

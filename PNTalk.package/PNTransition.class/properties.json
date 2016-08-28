@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"threads",
+		"arcGoals",
+		"postArcGoals",
+		"guardGoals",
+		"actions",
+		"bindings" ],
+	"name" : "PNTransition",
+	"pools" : [
+		 ],
+	"super" : "PNtalkContainer",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+notEmpty
+	^ content notEmpty.

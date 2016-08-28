@@ -1,0 +1,21 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"arcsStack",
+		"guardsStack",
+		"guardsBindings",
+		"arcGoals",
+		"guardGoals",
+		"parent",
+		"variables",
+		"bindings" ],
+	"name" : "PNTransitionTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

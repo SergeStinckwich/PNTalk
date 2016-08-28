@@ -1,0 +1,3 @@
+compiler
+asCondition
+	type := #cond

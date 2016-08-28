@@ -1,0 +1,3 @@
+accessing
+run
+	state := #running.

@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WfTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

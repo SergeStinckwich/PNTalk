@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNCompiledObjectNet",
+	"pools" : [
+		 ],
+	"super" : "PNCompiledNet",
+	"type" : "normal" }

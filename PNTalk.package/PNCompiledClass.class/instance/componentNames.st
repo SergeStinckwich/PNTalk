@@ -1,0 +1,3 @@
+accessing
+componentNames
+	^ netsList keys.

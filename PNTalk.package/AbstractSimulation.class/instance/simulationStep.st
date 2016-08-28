@@ -1,0 +1,4 @@
+private
+simulationStep
+
+	self subclassResponsibility

@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"idGen",
+		"components" ],
+	"name" : "PNtalkContainer",
+	"pools" : [
+		 ],
+	"super" : "PNtalkComponent",
+	"type" : "normal" }

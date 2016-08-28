@@ -1,0 +1,16 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actionsCollection",
+		"lexer",
+		"alex" ],
+	"name" : "PNParser",
+	"pools" : [
+		 ],
+	"super" : "Parser",
+	"type" : "normal" }

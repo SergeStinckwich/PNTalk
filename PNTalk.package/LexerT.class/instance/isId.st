@@ -1,0 +1,4 @@
+testing
+isId
+
+^type = #id

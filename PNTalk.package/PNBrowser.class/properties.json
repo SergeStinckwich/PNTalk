@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list" ],
+	"name" : "PNBrowser",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

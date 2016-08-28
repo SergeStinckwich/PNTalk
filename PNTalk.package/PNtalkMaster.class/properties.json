@@ -1,0 +1,20 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inputQueue",
+		"process",
+		"semaphore",
+		"status",
+		"listProcesses",
+		"listInvocatedMethods",
+		"methodContext" ],
+	"name" : "PNtalkMaster",
+	"pools" : [
+		 ],
+	"super" : "PNtalkContainer",
+	"type" : "normal" }

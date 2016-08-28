@@ -1,0 +1,3 @@
+accessing
+isWaiting
+	^ state = #waiting.

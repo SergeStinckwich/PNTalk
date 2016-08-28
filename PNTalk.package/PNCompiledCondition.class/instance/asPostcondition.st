@@ -1,0 +1,3 @@
+compiler
+asPostcondition
+	type := #postcond

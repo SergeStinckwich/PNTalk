@@ -1,0 +1,3 @@
+components
+isAsyncPort
+	^ false.

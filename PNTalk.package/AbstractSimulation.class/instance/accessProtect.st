@@ -1,0 +1,4 @@
+private
+accessProtect
+
+	^accessProtect

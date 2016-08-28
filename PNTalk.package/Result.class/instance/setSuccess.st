@@ -1,0 +1,3 @@
+accessing
+setSuccess
+	bool := true

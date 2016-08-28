@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 7/11/2006 00:39",
+	"instvars" : [
+		 ],
+	"name" : "NonEqDetected",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

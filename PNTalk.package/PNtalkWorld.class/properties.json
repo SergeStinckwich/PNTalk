@@ -1,0 +1,23 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IDGenerator" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"time",
+		"calendar",
+		"activity",
+		"timeSuspend",
+		"executor",
+		"garbageComponents",
+		"changedTime",
+		"clockCounter",
+		"rtTimer",
+		"startTime" ],
+	"name" : "PNtalkWorld",
+	"pools" : [
+		 ],
+	"super" : "PNtalkMaster",
+	"type" : "normal" }

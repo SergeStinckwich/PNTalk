@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-PNClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type" ],
+	"name" : "PNCompiledAsyncPort",
+	"pools" : [
+		 ],
+	"super" : "PNCompiledPlace",
+	"type" : "normal" }

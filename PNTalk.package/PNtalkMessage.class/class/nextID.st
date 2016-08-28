@@ -1,0 +1,4 @@
+identification
+nextID
+	
+	^IDGenerator next.

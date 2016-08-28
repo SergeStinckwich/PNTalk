@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list" ],
+	"name" : "MyRepositoryBrowser",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

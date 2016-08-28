@@ -1,0 +1,18 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		"uniqID" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"world",
+		"log",
+		"rtFactor",
+		"rtTimer",
+		"gc" ],
+	"name" : "PNtalkSimulation",
+	"pools" : [
+		 ],
+	"super" : "AbstractSimulation",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-Misc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cr",
+		"CrLf",
+		"Lf",
+		"LineEndDefault",
+		"LineEndStrings",
+		"LookAheadCount" ],
+	"commentStamp" : "ls 11/10/2002 13:32",
+	"instvars" : [
+		"lineEndConvention" ],
+	"name" : "CrLfFileStream",
+	"pools" : [
+		 ],
+	"super" : "StandardFileStream",
+	"type" : "normal" }

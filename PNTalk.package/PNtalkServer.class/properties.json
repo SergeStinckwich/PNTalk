@@ -1,0 +1,16 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		"server",
+		"destroyed" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket",
+		"stream" ],
+	"name" : "PNtalkServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

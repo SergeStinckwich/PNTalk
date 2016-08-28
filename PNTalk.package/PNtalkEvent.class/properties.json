@@ -1,0 +1,15 @@
+{
+	"category" : "PNtalk-Core-PNObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event",
+		"bindings" ],
+	"name" : "PNtalkEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

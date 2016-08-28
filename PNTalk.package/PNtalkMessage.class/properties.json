@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IDGenerator" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"message",
+		"sender",
+		"receiver",
+		"type",
+		"arguments" ],
+	"name" : "PNtalkMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

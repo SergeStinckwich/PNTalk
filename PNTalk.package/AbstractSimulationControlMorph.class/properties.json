@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model" ],
+	"name" : "AbstractSimulationControlMorph",
+	"pools" : [
+		 ],
+	"super" : "MenuMorph",
+	"type" : "normal" }

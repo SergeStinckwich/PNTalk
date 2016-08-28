@@ -1,0 +1,14 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vj 6/3/2006 05:27",
+	"instvars" : [
+		 ],
+	"name" : "PrototypeObjectForMyRepository",
+	"pools" : [
+		 ],
+	"super" : "SerializablePrototypeObject",
+	"type" : "normal" }

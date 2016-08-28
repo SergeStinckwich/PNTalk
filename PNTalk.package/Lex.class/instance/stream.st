@@ -1,0 +1,3 @@
+source code
+stream
+	^ fnstream.

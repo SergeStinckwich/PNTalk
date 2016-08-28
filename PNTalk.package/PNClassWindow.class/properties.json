@@ -1,0 +1,17 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classUI",
+		"sw",
+		"sp",
+		"gr" ],
+	"name" : "PNClassWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

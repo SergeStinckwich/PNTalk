@@ -1,0 +1,3 @@
+copying
+sixxInitialize
+	self initializeSimulationControl

@@ -1,0 +1,3 @@
+accessing
+setFail
+	bool := false

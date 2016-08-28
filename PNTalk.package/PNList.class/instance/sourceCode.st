@@ -1,0 +1,3 @@
+browser
+sourceCode
+	^ self printString.

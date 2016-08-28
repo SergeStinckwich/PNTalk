@@ -1,0 +1,3 @@
+compiler
+isCondition
+	^ type = #cond

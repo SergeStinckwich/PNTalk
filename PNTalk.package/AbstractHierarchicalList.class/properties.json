@@ -1,0 +1,15 @@
+{
+	"category" : "PNTalk-SmallDEVS-MyRepository-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentSelection",
+		"myBrowser" ],
+	"name" : "AbstractHierarchicalList",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

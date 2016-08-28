@@ -1,0 +1,14 @@
+{
+	"category" : "PNtalk-Core-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PNtalkStateGuide",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

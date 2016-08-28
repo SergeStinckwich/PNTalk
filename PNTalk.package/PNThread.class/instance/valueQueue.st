@@ -1,0 +1,3 @@
+inner processing
+valueQueue
+	^ valueQueue

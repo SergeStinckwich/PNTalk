@@ -1,0 +1,19 @@
+{
+	"category" : "PNtalk-Core-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transMorphs",
+		"arcMorphs",
+		"placeMorphs",
+		"r",
+		"component",
+		"model" ],
+	"name" : "PNNetUI",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }
