@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/SergeStinckwich/PNTalk.svg?branch=master)](https://travis-ci.org/SergeStinckwich/PNTalk)
 [![Build status](https://ci.appveyor.com/api/projects/status/h69yo92bfevbho7t?svg=true)](https://ci.appveyor.com/project/SergeStinckwich/pntalk)
 
-
 http://perchta.fit.vutbr.cz/pntalk2k
 
 ## How to install PNTalk
@@ -13,3 +12,5 @@ Metacello new
     repository: 'github://SergeStinckwich/PNTalk';
     load
 ```
+
+
