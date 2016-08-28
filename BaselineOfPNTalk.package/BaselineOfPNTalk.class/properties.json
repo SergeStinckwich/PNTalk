@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPNTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPNTalk",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
